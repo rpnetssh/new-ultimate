@@ -2,6 +2,8 @@
 
 # ESTE PROYECTO A SIDO DESCONTINUADO.--
 
+![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-ULTIMATE-FREE/master/VPSPACK_SERVER.png)
+
 Manager Script
 
 1 • RECOMENDADO UBUNTU 14.04
